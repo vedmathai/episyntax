@@ -59,8 +59,7 @@ paired conditions).
   Prolific export (which is **not** included in this repo).
 - `human_annotation/analysis/prolific_calibration_tracking.csv`,
   `prolific_coverage_tracking.csv` -- tracking/scoring sheets with
-  `_expected_answer` derived from the answer_map described in
-  [Known bug-fix history](#known-bug-fix-history).
+  `_expected_answer` derived from the answer_map.
 
 **Anonymization method:** the calibration batch had two independent task
 groups of 5 raters each, with entirely non-overlapping real annotator
