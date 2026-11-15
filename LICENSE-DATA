@@ -1,0 +1,13 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This license covers all dataset, prompt, human-annotation, and results
+files in this repository: data/, human_annotation/data/,
+human_annotation/analysis/, human_annotation/instructions/, and results/.
+
+You are free to share and adapt this material for any purpose, including
+commercially, as long as you give appropriate credit, provide a link to
+the license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+See README.md for the citation to use when crediting this dataset.

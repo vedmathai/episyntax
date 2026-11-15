@@ -1,0 +1,2696 @@
+model,scenario_idx,condition,polarity_group,q_used,expected_answer,template,raw_answer
+gpt_oss_120b,1,E2,C1,Q1,certain,A,uncertain
+gpt_oss_120b,1,E2,C1,Q1,certain,B,uncertain
+gpt_oss_120b,1,E2,C1,Q1,certain,C,uncertain
+gpt_oss_120b,1,E2,C1,Q1,certain,D,uncertain
+gpt_oss_120b,1,E2,C1,Q1,certain,E,uncertain
+gpt_oss_120b,1,E2,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,1,E2,C1,Q2,certainly not,B,uncertain
+gpt_oss_120b,1,E2,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,1,E2,C1,Q2,certainly not,D,uncertain
+gpt_oss_120b,1,E2,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,1,E2,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,1,E2,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,1,E2,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,1,E2,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,1,E2,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,1,E2,C2,Q2,certain,A,uncertain
+gpt_oss_120b,1,E2,C2,Q2,certain,B,uncertain
+gpt_oss_120b,1,E2,C2,Q2,certain,C,uncertain
+gpt_oss_120b,1,E2,C2,Q2,certain,D,uncertain
+gpt_oss_120b,1,E2,C2,Q2,certain,E,uncertain
+gpt_oss_120b,1,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,1,C2,C1,Q1,certain,B,uncertain
+gpt_oss_120b,1,C2,C1,Q1,certain,C,certain
+gpt_oss_120b,1,C2,C1,Q1,certain,D,certain
+gpt_oss_120b,1,C2,C1,Q1,certain,E,certain
+gpt_oss_120b,1,C2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,C2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,C2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,C2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,C2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,C2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,C2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,C2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,C2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,C2,C2,Q2,certain,A,certain
+gpt_oss_120b,1,C2,C2,Q2,certain,B,certain
+gpt_oss_120b,1,C2,C2,Q2,certain,C,certain
+gpt_oss_120b,1,C2,C2,Q2,certain,D,certain
+gpt_oss_120b,1,C2,C2,Q2,certain,E,certain
+gpt_oss_120b,1,E1,C1,Q1,certain,A,certain
+gpt_oss_120b,1,E1,C1,Q1,certain,B,uncertain
+gpt_oss_120b,1,E1,C1,Q1,certain,C,uncertain
+gpt_oss_120b,1,E1,C1,Q1,certain,D,certain
+gpt_oss_120b,1,E1,C1,Q1,certain,E,certain
+gpt_oss_120b,1,E1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,E1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,E1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,E1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,E1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,E1,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,1,E1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,E1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,E1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,E1,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,1,E1,C2,Q2,certain,A,uncertain
+gpt_oss_120b,1,E1,C2,Q2,certain,B,certain
+gpt_oss_120b,1,E1,C2,Q2,certain,C,certain
+gpt_oss_120b,1,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,1,E1,C2,Q2,certain,E,certain
+gpt_oss_120b,1,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,1,C1,C1,Q1,certain,B,certain
+gpt_oss_120b,1,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,1,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,1,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,1,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,1,C1,C1,Q1,certain,E,certain
+gpt_oss_120b,1,C1,C1,Q1,certain,E,certain
+gpt_oss_120b,1,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,1,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,1,C1,C2,Q2,certain,B,certain
+gpt_oss_120b,1,C1,C2,Q2,certain,B,certain
+gpt_oss_120b,1,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,1,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,1,C1,C2,Q2,certain,D,certain
+gpt_oss_120b,1,C1,C2,Q2,certain,D,certain
+gpt_oss_120b,1,C1,C2,Q2,certain,E,certain
+gpt_oss_120b,1,C1,C2,Q2,certain,E,certain
+gpt_oss_120b,1,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,1,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,1,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,1,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,1,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,1,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,1,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,1,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,1,C3,C1,Q1,certain,E,certain
+gpt_oss_120b,1,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,C3,C1,Q1,certain,E,certain
+gpt_oss_120b,1,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,1,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,1,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,1,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,1,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,1,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,1,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,1,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,1,C3,C2,Q2,certain,E,certain
+gpt_oss_120b,1,C3,C2,Q2,certain,E,certain
+gpt_oss_120b,1,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,1,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,1,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,1,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,1,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,1,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,1,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,1,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,1,E3,C1,Q1,certain,E,uncertain
+gpt_oss_120b,1,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,E3,C1,Q1,certain,E,uncertain
+gpt_oss_120b,1,E3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,E3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,E3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,E3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,E3,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,1,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,1,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,1,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,1,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,1,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,1,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,1,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,1,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,1,E3,C2,Q2,certain,E,certain
+gpt_oss_120b,1,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,1,E3,C2,Q2,certain,E,uncertain
+gpt_oss_120b,1,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,1,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,1,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,1,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,1,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,1,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,1,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,1,E4,C1,Q1,certain,E,certain
+gpt_oss_120b,1,E4,C1,Q1,certain,E,certain
+gpt_oss_120b,1,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,E4,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,E4,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,1,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,1,E4,C2,Q2,certain,B,certain
+gpt_oss_120b,1,E4,C2,Q2,certain,B,certain
+gpt_oss_120b,1,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,1,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,1,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,1,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,1,E4,C2,Q2,certain,E,certain
+gpt_oss_120b,1,E4,C2,Q2,certain,E,certain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,C,certain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,1,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,1,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,1,E5,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,1,E5,C2,Q1,uncertain,A,certainly not
+gpt_oss_120b,1,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,1,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,1,E5,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,1,E5,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,1,E5,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,1,E5,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,1,E5,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,1,E5,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,1,E5,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,1,E5,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,1,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,1,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,1,E5,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,1,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,1,E5,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,1,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,1,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,1,C4,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,1,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,1,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,1,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,1,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,1,C4,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,1,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,1,C4,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,1,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,1,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,1,C4,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,1,C4,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,1,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,1,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,1,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,1,C4,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,1,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,1,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,1,C5,C1,Q1,certain,A,certain
+gpt_oss_120b,1,C5,C1,Q1,certain,B,certain
+gpt_oss_120b,1,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,1,C5,C1,Q1,certain,D,certain
+gpt_oss_120b,1,C5,C1,Q1,certain,E,uncertain
+gpt_oss_120b,1,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,C5,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,C5,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,C5,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,C5,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,C5,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,1,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,1,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,1,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,1,C5,C2,Q2,certain,E,certain
+gpt_oss_120b,1,E6,C1,Q1,certain,A,certain
+gpt_oss_120b,1,E6,C1,Q1,certain,B,certain
+gpt_oss_120b,1,E6,C1,Q1,certain,C,certain
+gpt_oss_120b,1,E6,C1,Q1,certain,D,certain
+gpt_oss_120b,1,E6,C1,Q1,certain,E,certain
+gpt_oss_120b,1,E6,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,E6,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,E6,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,E6,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,E6,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,E6,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,E6,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,E6,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,E6,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,E6,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,E6,C2,Q2,certain,A,certain
+gpt_oss_120b,1,E6,C2,Q2,certain,B,certain
+gpt_oss_120b,1,E6,C2,Q2,certain,C,certain
+gpt_oss_120b,1,E6,C2,Q2,certain,D,certain
+gpt_oss_120b,1,E6,C2,Q2,certain,E,certain
+gpt_oss_120b,1,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,1,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,1,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,1,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,1,E7,C1,Q1,certain,E,certain
+gpt_oss_120b,1,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,1,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,1,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,1,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,1,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,1,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,1,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,1,E7,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,1,E7,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,1,E7,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,1,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,1,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,1,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,1,E7,C2,Q2,certain,D,certain
+gpt_oss_120b,1,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,1,E8,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,1,E8,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,1,E8,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,1,E8,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,1,E8,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,1,E8,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,1,E8,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,1,E8,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,1,E8,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,1,E8,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,1,E8,C2,Q1,uncertain,A,certainly not
+gpt_oss_120b,1,E8,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,1,E8,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,1,E8,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,1,E8,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,1,E8,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,1,E8,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,1,E8,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,1,E8,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,1,E8,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,2,E2,C1,Q1,certain,A,certain
+gpt_oss_120b,2,E2,C1,Q1,certain,B,certain
+gpt_oss_120b,2,E2,C1,Q1,certain,C,certain
+gpt_oss_120b,2,E2,C1,Q1,certain,D,certain
+gpt_oss_120b,2,E2,C1,Q1,certain,E,uncertain
+gpt_oss_120b,2,E2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,E2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,2,E2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,E2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,E2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,2,E2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,2,E2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,E2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,2,E2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,2,E2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,2,E2,C2,Q2,certain,A,certain
+gpt_oss_120b,2,E2,C2,Q2,certain,B,certain
+gpt_oss_120b,2,E2,C2,Q2,certain,C,certain
+gpt_oss_120b,2,E2,C2,Q2,certain,D,certain
+gpt_oss_120b,2,E2,C2,Q2,certain,E,certain
+gpt_oss_120b,2,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,2,C2,C1,Q1,certain,B,uncertain
+gpt_oss_120b,2,C2,C1,Q1,certain,C,uncertain
+gpt_oss_120b,2,C2,C1,Q1,certain,D,uncertain
+gpt_oss_120b,2,C2,C1,Q1,certain,E,uncertain
+gpt_oss_120b,2,C2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,C2,C1,Q2,certainly not,B,uncertain
+gpt_oss_120b,2,C2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,C2,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,2,C2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,2,C2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,C2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,2,C2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,2,C2,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,2,C2,C2,Q2,certain,A,certain
+gpt_oss_120b,2,C2,C2,Q2,certain,B,certain
+gpt_oss_120b,2,C2,C2,Q2,certain,C,uncertain
+gpt_oss_120b,2,C2,C2,Q2,certain,D,uncertain
+gpt_oss_120b,2,C2,C2,Q2,certain,E,uncertain
+gpt_oss_120b,2,E1,C1,Q1,certain,A,uncertain
+gpt_oss_120b,2,E1,C1,Q1,certain,B,certain
+gpt_oss_120b,2,E1,C1,Q1,certain,C,certain
+gpt_oss_120b,2,E1,C1,Q1,certain,D,certain
+gpt_oss_120b,2,E1,C1,Q1,certain,E,certain
+gpt_oss_120b,2,E1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,E1,C1,Q2,certainly not,B,uncertain
+gpt_oss_120b,2,E1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,E1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,E1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,2,E1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,2,E1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,E1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,2,E1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,2,E1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,2,E1,C2,Q2,certain,A,uncertain
+gpt_oss_120b,2,E1,C2,Q2,certain,B,certain
+gpt_oss_120b,2,E1,C2,Q2,certain,C,certain
+gpt_oss_120b,2,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,2,E1,C2,Q2,certain,E,certain
+gpt_oss_120b,2,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,2,C1,C1,Q1,certain,B,certain
+gpt_oss_120b,2,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,2,C1,C1,Q1,certain,D,uncertain
+gpt_oss_120b,2,C1,C1,Q1,certain,E,uncertain
+gpt_oss_120b,2,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,2,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,2,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,2,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,2,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,2,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,2,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,2,C1,C2,Q2,certain,B,uncertain
+gpt_oss_120b,2,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,2,C1,C2,Q2,certain,D,uncertain
+gpt_oss_120b,2,C1,C2,Q2,certain,E,uncertain
+gpt_oss_120b,2,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,2,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,2,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,2,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,2,C3,C1,Q1,certain,E,certain
+gpt_oss_120b,2,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,2,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,2,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,2,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,2,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,2,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,2,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,2,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,2,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,2,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,2,C3,C2,Q2,certain,E,certain
+gpt_oss_120b,2,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,2,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,2,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,2,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,2,E3,C1,Q1,certain,E,uncertain
+gpt_oss_120b,2,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,E3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,2,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,E3,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,2,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,2,E3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,2,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,2,E3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,2,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,2,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,2,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,2,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,2,E3,C2,Q2,certain,E,uncertain
+gpt_oss_120b,2,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,2,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,2,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,2,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,2,E4,C1,Q1,certain,E,uncertain
+gpt_oss_120b,2,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,2,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,E4,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,2,E4,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,2,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,E4,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,2,E4,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,2,E4,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,2,E4,C2,Q2,certain,A,certainly not
+gpt_oss_120b,2,E4,C2,Q2,certain,B,certainly not
+gpt_oss_120b,2,E4,C2,Q2,certain,C,certainly not
+gpt_oss_120b,2,E4,C2,Q2,certain,D,certainly not
+gpt_oss_120b,2,E4,C2,Q2,certain,E,certainly not
+gpt_oss_120b,2,E5,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,2,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,2,E5,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,2,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,2,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,2,E5,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,2,E5,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,2,E5,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,2,E5,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,2,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,2,E5,C2,Q1,uncertain,A,certainly not
+gpt_oss_120b,2,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,2,E5,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,2,E5,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,2,E5,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,2,E5,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,2,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,2,E5,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,2,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,2,E5,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,2,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,2,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,2,C4,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,2,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,2,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,2,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,2,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,2,C4,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,2,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,2,C4,C1,Q2,uncertain,E,certainly not
+gpt_oss_120b,2,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,2,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,2,C4,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,2,C4,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,2,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,2,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,2,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,2,C4,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,2,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,2,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,2,C5,C1,Q1,certain,A,certain
+gpt_oss_120b,2,C5,C1,Q1,certain,B,certain
+gpt_oss_120b,2,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,2,C5,C1,Q1,certain,D,certain
+gpt_oss_120b,2,C5,C1,Q1,certain,E,uncertain
+gpt_oss_120b,2,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,2,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,2,C5,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,2,C5,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,C5,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,2,C5,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,2,C5,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,2,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,2,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,2,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,2,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,2,C5,C2,Q2,certain,E,uncertain
+gpt_oss_120b,2,E6,C1,Q1,certain,A,certain
+gpt_oss_120b,2,E6,C1,Q1,certain,B,certain
+gpt_oss_120b,2,E6,C1,Q1,certain,C,certain
+gpt_oss_120b,2,E6,C1,Q1,certain,D,certain
+gpt_oss_120b,2,E6,C1,Q1,certain,E,certain
+gpt_oss_120b,2,E6,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,E6,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,2,E6,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,E6,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,E6,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,2,E6,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,2,E6,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,E6,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,2,E6,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,2,E6,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,2,E6,C2,Q2,certain,A,certain
+gpt_oss_120b,2,E6,C2,Q2,certain,B,certain
+gpt_oss_120b,2,E6,C2,Q2,certain,C,certain
+gpt_oss_120b,2,E6,C2,Q2,certain,D,certain
+gpt_oss_120b,2,E6,C2,Q2,certain,E,certain
+gpt_oss_120b,2,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,2,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,2,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,2,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,2,E7,C1,Q1,certain,E,uncertain
+gpt_oss_120b,2,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,2,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,2,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,2,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,2,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,2,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,2,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,2,E7,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,2,E7,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,2,E7,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,2,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,2,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,2,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,2,E7,C2,Q2,certain,D,uncertain
+gpt_oss_120b,2,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,2,E8,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,2,E8,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,2,E8,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,2,E8,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,2,E8,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,2,E8,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,2,E8,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,2,E8,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,2,E8,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,2,E8,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,2,E8,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,2,E8,C2,Q1,uncertain,B,certainly not
+gpt_oss_120b,2,E8,C2,Q1,uncertain,C,certainly not
+gpt_oss_120b,2,E8,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,2,E8,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,2,E8,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,2,E8,C2,Q2,uncertain,B,certain
+gpt_oss_120b,2,E8,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,2,E8,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,2,E8,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,3,E2,C1,Q1,certain,A,certain
+gpt_oss_120b,3,E2,C1,Q1,certain,B,certain
+gpt_oss_120b,3,E2,C1,Q1,certain,C,certain
+gpt_oss_120b,3,E2,C1,Q1,certain,D,certain
+gpt_oss_120b,3,E2,C1,Q1,certain,E,certain
+gpt_oss_120b,3,E2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,E2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,E2,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,3,E2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,E2,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,3,E2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,3,E2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,E2,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,3,E2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,E2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,3,E2,C2,Q2,certain,A,certain
+gpt_oss_120b,3,E2,C2,Q2,certain,B,certain
+gpt_oss_120b,3,E2,C2,Q2,certain,C,certain
+gpt_oss_120b,3,E2,C2,Q2,certain,D,certain
+gpt_oss_120b,3,E2,C2,Q2,certain,E,certain
+gpt_oss_120b,3,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,3,C2,C1,Q1,certain,B,certain
+gpt_oss_120b,3,C2,C1,Q1,certain,C,certain
+gpt_oss_120b,3,C2,C1,Q1,certain,D,certain
+gpt_oss_120b,3,C2,C1,Q1,certain,E,certain
+gpt_oss_120b,3,C2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,C2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,C2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,3,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,C2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,3,C2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,3,C2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,C2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,3,C2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,C2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,3,C2,C2,Q2,certain,A,certain
+gpt_oss_120b,3,C2,C2,Q2,certain,B,certain
+gpt_oss_120b,3,C2,C2,Q2,certain,C,certain
+gpt_oss_120b,3,C2,C2,Q2,certain,D,certain
+gpt_oss_120b,3,C2,C2,Q2,certain,E,certain
+gpt_oss_120b,3,E1,C1,Q1,certain,A,certain
+gpt_oss_120b,3,E1,C1,Q1,certain,B,certain
+gpt_oss_120b,3,E1,C1,Q1,certain,C,certain
+gpt_oss_120b,3,E1,C1,Q1,certain,D,certain
+gpt_oss_120b,3,E1,C1,Q1,certain,E,certain
+gpt_oss_120b,3,E1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,E1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,E1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,3,E1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,E1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,3,E1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,3,E1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,E1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,3,E1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,E1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,3,E1,C2,Q2,certain,A,certain
+gpt_oss_120b,3,E1,C2,Q2,certain,B,certain
+gpt_oss_120b,3,E1,C2,Q2,certain,C,certain
+gpt_oss_120b,3,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,3,E1,C2,Q2,certain,E,certain
+gpt_oss_120b,3,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,3,C1,C1,Q1,certain,B,certain
+gpt_oss_120b,3,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,3,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,3,C1,C1,Q1,certain,E,certain
+gpt_oss_120b,3,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,3,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,3,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,3,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,3,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,3,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,3,C1,C2,Q2,certain,B,certain
+gpt_oss_120b,3,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,3,C1,C2,Q2,certain,D,certain
+gpt_oss_120b,3,C1,C2,Q2,certain,E,certain
+gpt_oss_120b,3,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,3,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,3,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,3,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,3,C3,C1,Q1,certain,E,certain
+gpt_oss_120b,3,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,3,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,3,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,3,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,3,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,3,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,3,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,3,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,3,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,3,C3,C2,Q2,certain,E,certain
+gpt_oss_120b,3,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,3,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,3,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,3,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,3,E3,C1,Q1,certain,E,uncertain
+gpt_oss_120b,3,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,E3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,3,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,E3,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,3,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,3,E3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,3,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,E3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,3,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,3,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,3,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,3,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,3,E3,C2,Q2,certain,E,uncertain
+gpt_oss_120b,3,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,3,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,3,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,3,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,3,E4,C1,Q1,certain,E,uncertain
+gpt_oss_120b,3,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,3,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,E4,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,3,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,3,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,3,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,3,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,3,E4,C2,Q2,certain,B,certain
+gpt_oss_120b,3,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,3,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,3,E4,C2,Q2,certain,E,certain
+gpt_oss_120b,3,E5,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,3,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,3,E5,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,3,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,3,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,3,E5,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,3,E5,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,3,E5,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,3,E5,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,3,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,3,E5,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,3,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,3,E5,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,3,E5,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,3,E5,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,3,E5,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,3,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,3,E5,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,3,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,3,E5,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,3,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,3,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,3,C4,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,3,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,3,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,3,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,3,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,3,C4,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,3,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,3,C4,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,3,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,3,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,3,C4,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,3,C4,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,3,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,3,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,3,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,3,C4,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,3,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,3,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,3,C5,C1,Q1,certain,A,certain
+gpt_oss_120b,3,C5,C1,Q1,certain,B,certain
+gpt_oss_120b,3,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,3,C5,C1,Q1,certain,D,certain
+gpt_oss_120b,3,C5,C1,Q1,certain,E,certain
+gpt_oss_120b,3,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,3,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,3,C5,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,3,C5,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,C5,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,3,C5,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,C5,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,3,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,3,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,3,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,3,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,3,C5,C2,Q2,certain,E,certain
+gpt_oss_120b,3,E6,C1,Q1,certain,A,certain
+gpt_oss_120b,3,E6,C1,Q1,certain,B,certain
+gpt_oss_120b,3,E6,C1,Q1,certain,C,certain
+gpt_oss_120b,3,E6,C1,Q1,certain,D,certain
+gpt_oss_120b,3,E6,C1,Q1,certain,E,uncertain
+gpt_oss_120b,3,E6,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,E6,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,E6,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,3,E6,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,E6,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,3,E6,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,3,E6,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,E6,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,3,E6,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,E6,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,3,E6,C2,Q2,certain,A,certain
+gpt_oss_120b,3,E6,C2,Q2,certain,B,certain
+gpt_oss_120b,3,E6,C2,Q2,certain,C,certain
+gpt_oss_120b,3,E6,C2,Q2,certain,D,certain
+gpt_oss_120b,3,E6,C2,Q2,certain,E,uncertain
+gpt_oss_120b,3,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,3,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,3,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,3,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,3,E7,C1,Q1,certain,E,certain
+gpt_oss_120b,3,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,3,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,3,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,3,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,3,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,3,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,3,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,3,E7,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,3,E7,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,3,E7,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,3,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,3,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,3,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,3,E7,C2,Q2,certain,D,certain
+gpt_oss_120b,3,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,3,E8,C1,Q1,uncertain,A,certain
+gpt_oss_120b,3,E8,C1,Q1,uncertain,B,certain
+gpt_oss_120b,3,E8,C1,Q1,uncertain,C,certain
+gpt_oss_120b,3,E8,C1,Q1,uncertain,D,certain
+gpt_oss_120b,3,E8,C1,Q1,uncertain,E,certain
+gpt_oss_120b,3,E8,C1,Q2,uncertain,A,certainly not
+gpt_oss_120b,3,E8,C1,Q2,uncertain,B,certainly not
+gpt_oss_120b,3,E8,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,3,E8,C1,Q2,uncertain,D,certainly not
+gpt_oss_120b,3,E8,C1,Q2,uncertain,E,certainly not
+gpt_oss_120b,3,E8,C2,Q1,uncertain,A,certainly not
+gpt_oss_120b,3,E8,C2,Q1,uncertain,B,certainly not
+gpt_oss_120b,3,E8,C2,Q1,uncertain,C,certainly not
+gpt_oss_120b,3,E8,C2,Q1,uncertain,D,certainly not
+gpt_oss_120b,3,E8,C2,Q1,uncertain,E,certainly not
+gpt_oss_120b,3,E8,C2,Q2,uncertain,A,certain
+gpt_oss_120b,3,E8,C2,Q2,uncertain,B,certain
+gpt_oss_120b,3,E8,C2,Q2,uncertain,C,certain
+gpt_oss_120b,3,E8,C2,Q2,uncertain,D,certain
+gpt_oss_120b,3,E8,C2,Q2,uncertain,E,certain
+gpt_oss_120b,4,E2,C1,Q1,certain,A,certain
+gpt_oss_120b,4,E2,C1,Q1,certain,B,certain
+gpt_oss_120b,4,E2,C1,Q1,certain,C,certain
+gpt_oss_120b,4,E2,C1,Q1,certain,D,certain
+gpt_oss_120b,4,E2,C1,Q1,certain,E,certain
+gpt_oss_120b,4,E2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,4,E2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,E2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,E2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,E2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,4,E2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,E2,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,4,E2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,4,E2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,E2,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,4,E2,C2,Q2,certain,A,uncertain
+gpt_oss_120b,4,E2,C2,Q2,certain,B,uncertain
+gpt_oss_120b,4,E2,C2,Q2,certain,C,certain
+gpt_oss_120b,4,E2,C2,Q2,certain,D,certain
+gpt_oss_120b,4,E2,C2,Q2,certain,E,certain
+gpt_oss_120b,4,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,4,C2,C1,Q1,certain,B,certain
+gpt_oss_120b,4,C2,C1,Q1,certain,C,certain
+gpt_oss_120b,4,C2,C1,Q1,certain,D,certain
+gpt_oss_120b,4,C2,C1,Q1,certain,E,certain
+gpt_oss_120b,4,C2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,4,C2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,C2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,C2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,4,C2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,C2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,4,C2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,4,C2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,C2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,4,C2,C2,Q2,certain,A,certain
+gpt_oss_120b,4,C2,C2,Q2,certain,B,certain
+gpt_oss_120b,4,C2,C2,Q2,certain,C,certain
+gpt_oss_120b,4,C2,C2,Q2,certain,D,certain
+gpt_oss_120b,4,C2,C2,Q2,certain,E,certain
+gpt_oss_120b,4,E1,C1,Q1,certain,A,certain
+gpt_oss_120b,4,E1,C1,Q1,certain,B,certain
+gpt_oss_120b,4,E1,C1,Q1,certain,C,certain
+gpt_oss_120b,4,E1,C1,Q1,certain,D,certain
+gpt_oss_120b,4,E1,C1,Q1,certain,E,certain
+gpt_oss_120b,4,E1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,4,E1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,E1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,E1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,E1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,4,E1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,E1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,4,E1,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,4,E1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,E1,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,4,E1,C2,Q2,certain,A,certain
+gpt_oss_120b,4,E1,C2,Q2,certain,B,certain
+gpt_oss_120b,4,E1,C2,Q2,certain,C,uncertain
+gpt_oss_120b,4,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,4,E1,C2,Q2,certain,E,certain
+gpt_oss_120b,4,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,4,C1,C1,Q1,certain,B,certain
+gpt_oss_120b,4,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,4,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,4,C1,C1,Q1,certain,E,certain
+gpt_oss_120b,4,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,4,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,4,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,4,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,4,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,4,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,4,C1,C2,Q2,certain,B,certain
+gpt_oss_120b,4,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,4,C1,C2,Q2,certain,D,certain
+gpt_oss_120b,4,C1,C2,Q2,certain,E,certain
+gpt_oss_120b,4,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,4,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,4,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,4,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,4,C3,C1,Q1,certain,E,certain
+gpt_oss_120b,4,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,4,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,4,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,4,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,4,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,4,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,4,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,4,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,4,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,4,C3,C2,Q2,certain,E,certain
+gpt_oss_120b,4,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,4,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,4,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,4,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,4,E3,C1,Q1,certain,E,certain
+gpt_oss_120b,4,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,4,E3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,E3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,4,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,E3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,4,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,4,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,E3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,4,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,4,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,4,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,4,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,4,E3,C2,Q2,certain,E,certain
+gpt_oss_120b,4,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,4,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,4,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,4,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,4,E4,C1,Q1,certain,E,certain
+gpt_oss_120b,4,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,4,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,E4,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,4,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,4,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,4,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,4,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,4,E4,C2,Q2,certain,B,certain
+gpt_oss_120b,4,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,4,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,4,E4,C2,Q2,certain,E,certain
+gpt_oss_120b,4,E5,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,4,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,4,E5,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,4,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,4,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,4,E5,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,4,E5,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,4,E5,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,4,E5,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,4,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,4,E5,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,4,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,4,E5,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,4,E5,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,4,E5,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,4,E5,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,4,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,4,E5,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,4,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,4,E5,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,4,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,4,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,4,C4,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,4,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,4,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,4,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,4,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,4,C4,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,4,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,4,C4,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,4,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,4,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,4,C4,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,4,C4,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,4,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,4,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,4,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,4,C4,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,4,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,4,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,4,C5,C1,Q1,certain,A,certain
+gpt_oss_120b,4,C5,C1,Q1,certain,B,certain
+gpt_oss_120b,4,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,4,C5,C1,Q1,certain,D,certain
+gpt_oss_120b,4,C5,C1,Q1,certain,E,certain
+gpt_oss_120b,4,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,4,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,4,C5,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,C5,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,4,C5,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,4,C5,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,C5,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,4,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,4,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,4,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,4,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,4,C5,C2,Q2,certain,E,certain
+gpt_oss_120b,4,E6,C1,Q1,certain,A,certain
+gpt_oss_120b,4,E6,C1,Q1,certain,B,uncertain
+gpt_oss_120b,4,E6,C1,Q1,certain,C,certain
+gpt_oss_120b,4,E6,C1,Q1,certain,D,certain
+gpt_oss_120b,4,E6,C1,Q1,certain,E,uncertain
+gpt_oss_120b,4,E6,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,4,E6,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,E6,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,E6,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,E6,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,4,E6,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,E6,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,4,E6,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,4,E6,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,E6,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,4,E6,C2,Q2,certain,A,certain
+gpt_oss_120b,4,E6,C2,Q2,certain,B,certain
+gpt_oss_120b,4,E6,C2,Q2,certain,C,certain
+gpt_oss_120b,4,E6,C2,Q2,certain,D,certain
+gpt_oss_120b,4,E6,C2,Q2,certain,E,certain
+gpt_oss_120b,4,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,4,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,4,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,4,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,4,E7,C1,Q1,certain,E,certain
+gpt_oss_120b,4,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,4,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,4,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,4,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,4,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,4,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,4,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,4,E7,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,4,E7,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,4,E7,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,4,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,4,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,4,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,4,E7,C2,Q2,certain,D,certain
+gpt_oss_120b,4,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,4,E8,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,4,E8,C1,Q1,uncertain,B,certain
+gpt_oss_120b,4,E8,C1,Q1,uncertain,C,certain
+gpt_oss_120b,4,E8,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,4,E8,C1,Q1,uncertain,E,certain
+gpt_oss_120b,4,E8,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,4,E8,C1,Q2,uncertain,B,certainly not
+gpt_oss_120b,4,E8,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,4,E8,C1,Q2,uncertain,D,certainly not
+gpt_oss_120b,4,E8,C1,Q2,uncertain,E,certainly not
+gpt_oss_120b,4,E8,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,4,E8,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,4,E8,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,4,E8,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,4,E8,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,4,E8,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,4,E8,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,4,E8,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,4,E8,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,4,E8,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,5,E2,C1,Q1,certain,A,certain
+gpt_oss_120b,5,E2,C1,Q1,certain,B,certain
+gpt_oss_120b,5,E2,C1,Q1,certain,C,certain
+gpt_oss_120b,5,E2,C1,Q1,certain,D,certain
+gpt_oss_120b,5,E2,C1,Q1,certain,E,certain
+gpt_oss_120b,5,E2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,5,E2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,5,E2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,5,E2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,5,E2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,5,E2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,5,E2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,5,E2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,5,E2,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,5,E2,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,5,E2,C2,Q2,certain,A,uncertain
+gpt_oss_120b,5,E2,C2,Q2,certain,B,uncertain
+gpt_oss_120b,5,E2,C2,Q2,certain,C,uncertain
+gpt_oss_120b,5,E2,C2,Q2,certain,D,uncertain
+gpt_oss_120b,5,E2,C2,Q2,certain,E,uncertain
+gpt_oss_120b,5,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,5,C2,C1,Q1,certain,B,certain
+gpt_oss_120b,5,C2,C1,Q1,certain,C,uncertain
+gpt_oss_120b,5,C2,C1,Q1,certain,D,certain
+gpt_oss_120b,5,C2,C1,Q1,certain,E,certain
+gpt_oss_120b,5,C2,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,5,C2,C1,Q2,certainly not,B,uncertain
+gpt_oss_120b,5,C2,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,5,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,5,C2,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,5,C2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,5,C2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,5,C2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,5,C2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,5,C2,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,5,C2,C2,Q2,certain,A,certain
+gpt_oss_120b,5,C2,C2,Q2,certain,B,certain
+gpt_oss_120b,5,C2,C2,Q2,certain,C,uncertain
+gpt_oss_120b,5,C2,C2,Q2,certain,D,certain
+gpt_oss_120b,5,C2,C2,Q2,certain,E,uncertain
+gpt_oss_120b,5,E1,C1,Q1,certain,A,uncertain
+gpt_oss_120b,5,E1,C1,Q1,certain,B,uncertain
+gpt_oss_120b,5,E1,C1,Q1,certain,C,uncertain
+gpt_oss_120b,5,E1,C1,Q1,certain,D,certain
+gpt_oss_120b,5,E1,C1,Q1,certain,E,uncertain
+gpt_oss_120b,5,E1,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,5,E1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,5,E1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,5,E1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,5,E1,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,5,E1,C2,Q1,certainly not,A,certain
+gpt_oss_120b,5,E1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,5,E1,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,5,E1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,5,E1,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,5,E1,C2,Q2,certain,A,uncertain
+gpt_oss_120b,5,E1,C2,Q2,certain,B,uncertain
+gpt_oss_120b,5,E1,C2,Q2,certain,C,uncertain
+gpt_oss_120b,5,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,5,E1,C2,Q2,certain,E,uncertain
+gpt_oss_120b,5,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,5,C1,C1,Q1,certain,B,uncertain
+gpt_oss_120b,5,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,5,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,5,C1,C1,Q1,certain,E,uncertain
+gpt_oss_120b,5,C1,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,5,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,5,C1,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,5,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,5,C1,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,5,C1,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,5,C1,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,5,C1,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,5,C1,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,5,C1,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,5,C1,C2,Q2,certain,A,uncertain
+gpt_oss_120b,5,C1,C2,Q2,certain,B,uncertain
+gpt_oss_120b,5,C1,C2,Q2,certain,C,uncertain
+gpt_oss_120b,5,C1,C2,Q2,certain,D,uncertain
+gpt_oss_120b,5,C1,C2,Q2,certain,E,uncertain
+gpt_oss_120b,5,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,5,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,5,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,5,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,5,C3,C1,Q1,certain,E,uncertain
+gpt_oss_120b,5,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,5,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,5,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,5,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,5,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,5,C3,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,5,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,5,C3,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,5,C3,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,5,C3,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,5,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,5,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,5,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,5,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,5,C3,C2,Q2,certain,E,certain
+gpt_oss_120b,5,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,5,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,5,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,5,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,5,E3,C1,Q1,certain,E,uncertain
+gpt_oss_120b,5,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,5,E3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,5,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,5,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,5,E3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,5,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,5,E3,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,5,E3,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,5,E3,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,5,E3,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,5,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,5,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,5,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,5,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,5,E3,C2,Q2,certain,E,certain
+gpt_oss_120b,5,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,5,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,5,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,5,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,5,E4,C1,Q1,certain,E,certain
+gpt_oss_120b,5,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,5,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,5,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,5,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,5,E4,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,5,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,5,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,5,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,5,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,5,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,5,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,5,E4,C2,Q2,certain,B,certain
+gpt_oss_120b,5,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,5,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,5,E4,C2,Q2,certain,E,certain
+gpt_oss_120b,5,E5,C1,Q1,uncertain,A,certain
+gpt_oss_120b,5,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,5,E5,C1,Q1,uncertain,C,certain
+gpt_oss_120b,5,E5,C1,Q1,uncertain,D,certain
+gpt_oss_120b,5,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,5,E5,C1,Q2,uncertain,A,certainly not
+gpt_oss_120b,5,E5,C1,Q2,uncertain,B,certainly not
+gpt_oss_120b,5,E5,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,5,E5,C1,Q2,uncertain,D,certainly not
+gpt_oss_120b,5,E5,C1,Q2,uncertain,E,certainly not
+gpt_oss_120b,5,E5,C2,Q1,uncertain,A,certain
+gpt_oss_120b,5,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,5,E5,C2,Q1,uncertain,C,certain
+gpt_oss_120b,5,E5,C2,Q1,uncertain,D,certain
+gpt_oss_120b,5,E5,C2,Q1,uncertain,E,certain
+gpt_oss_120b,5,E5,C2,Q2,uncertain,A,certainly not
+gpt_oss_120b,5,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,5,E5,C2,Q2,uncertain,C,certainly not
+gpt_oss_120b,5,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,5,E5,C2,Q2,uncertain,E,certainly not
+gpt_oss_120b,5,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,5,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,5,C4,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,5,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,5,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,5,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,5,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,5,C4,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,5,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,5,C4,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,5,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,5,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,5,C4,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,5,C4,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,5,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,5,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,5,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,5,C4,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,5,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,5,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,5,C5,C1,Q1,certain,A,uncertain
+gpt_oss_120b,5,C5,C1,Q1,certain,B,uncertain
+gpt_oss_120b,5,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,5,C5,C1,Q1,certain,D,uncertain
+gpt_oss_120b,5,C5,C1,Q1,certain,E,uncertain
+gpt_oss_120b,5,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,5,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,5,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,5,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,5,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,5,C5,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,5,C5,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,5,C5,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,5,C5,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,5,C5,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,5,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,5,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,5,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,5,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,5,C5,C2,Q2,certain,E,certain
+gpt_oss_120b,5,E6,C1,Q1,certain,A,certainly not
+gpt_oss_120b,5,E6,C1,Q1,certain,B,certainly not
+gpt_oss_120b,5,E6,C1,Q1,certain,C,uncertain
+gpt_oss_120b,5,E6,C1,Q1,certain,D,uncertain
+gpt_oss_120b,5,E6,C1,Q1,certain,E,uncertain
+gpt_oss_120b,5,E6,C1,Q2,certainly not,A,certain
+gpt_oss_120b,5,E6,C1,Q2,certainly not,B,certain
+gpt_oss_120b,5,E6,C1,Q2,certainly not,C,certain
+gpt_oss_120b,5,E6,C1,Q2,certainly not,D,certain
+gpt_oss_120b,5,E6,C1,Q2,certainly not,E,certain
+gpt_oss_120b,5,E6,C2,Q1,certainly not,A,certain
+gpt_oss_120b,5,E6,C2,Q1,certainly not,B,certain
+gpt_oss_120b,5,E6,C2,Q1,certainly not,C,certain
+gpt_oss_120b,5,E6,C2,Q1,certainly not,D,certain
+gpt_oss_120b,5,E6,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,5,E6,C2,Q2,certain,A,certainly not
+gpt_oss_120b,5,E6,C2,Q2,certain,B,certainly not
+gpt_oss_120b,5,E6,C2,Q2,certain,C,certainly not
+gpt_oss_120b,5,E6,C2,Q2,certain,D,certainly not
+gpt_oss_120b,5,E6,C2,Q2,certain,E,certainly not
+gpt_oss_120b,5,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,5,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,5,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,5,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,5,E7,C1,Q1,certain,E,certain
+gpt_oss_120b,5,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,5,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,5,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,5,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,5,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,5,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,5,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,5,E7,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,5,E7,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,5,E7,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,5,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,5,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,5,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,5,E7,C2,Q2,certain,D,certain
+gpt_oss_120b,5,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,5,E8,C1,Q1,uncertain,A,certain
+gpt_oss_120b,5,E8,C1,Q1,uncertain,B,certain
+gpt_oss_120b,5,E8,C1,Q1,uncertain,C,certain
+gpt_oss_120b,5,E8,C1,Q1,uncertain,D,certain
+gpt_oss_120b,5,E8,C1,Q1,uncertain,E,certain
+gpt_oss_120b,5,E8,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,5,E8,C1,Q2,uncertain,B,certainly not
+gpt_oss_120b,5,E8,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,5,E8,C1,Q2,uncertain,D,certainly not
+gpt_oss_120b,5,E8,C1,Q2,uncertain,E,certainly not
+gpt_oss_120b,5,E8,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,5,E8,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,5,E8,C2,Q1,uncertain,C,certain
+gpt_oss_120b,5,E8,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,5,E8,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,5,E8,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,5,E8,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,5,E8,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,5,E8,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,5,E8,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,6,E2,C1,Q1,certain,A,certain
+gpt_oss_120b,6,E2,C1,Q1,certain,B,uncertain
+gpt_oss_120b,6,E2,C1,Q1,certain,C,certain
+gpt_oss_120b,6,E2,C1,Q1,certain,D,certain
+gpt_oss_120b,6,E2,C1,Q1,certain,E,uncertain
+gpt_oss_120b,6,E2,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,6,E2,C1,Q2,certainly not,B,uncertain
+gpt_oss_120b,6,E2,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,6,E2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,E2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,6,E2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,6,E2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,6,E2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,6,E2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,6,E2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,E2,C2,Q2,certain,A,certain
+gpt_oss_120b,6,E2,C2,Q2,certain,B,certain
+gpt_oss_120b,6,E2,C2,Q2,certain,C,certain
+gpt_oss_120b,6,E2,C2,Q2,certain,D,certain
+gpt_oss_120b,6,E2,C2,Q2,certain,E,certain
+gpt_oss_120b,6,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,6,C2,C1,Q1,certain,B,certain
+gpt_oss_120b,6,C2,C1,Q1,certain,C,certain
+gpt_oss_120b,6,C2,C1,Q1,certain,D,certain
+gpt_oss_120b,6,C2,C1,Q1,certain,E,certain
+gpt_oss_120b,6,C2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,6,C2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,6,C2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,6,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,C2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,6,C2,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,6,C2,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,6,C2,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,6,C2,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,6,C2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,C2,C2,Q2,certain,A,uncertain
+gpt_oss_120b,6,C2,C2,Q2,certain,B,uncertain
+gpt_oss_120b,6,C2,C2,Q2,certain,C,certain
+gpt_oss_120b,6,C2,C2,Q2,certain,D,uncertain
+gpt_oss_120b,6,C2,C2,Q2,certain,E,uncertain
+gpt_oss_120b,6,E1,C1,Q1,certain,A,certain
+gpt_oss_120b,6,E1,C1,Q1,certain,B,certain
+gpt_oss_120b,6,E1,C1,Q1,certain,C,certain
+gpt_oss_120b,6,E1,C1,Q1,certain,D,certain
+gpt_oss_120b,6,E1,C1,Q1,certain,E,uncertain
+gpt_oss_120b,6,E1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,6,E1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,6,E1,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,6,E1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,E1,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,6,E1,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,6,E1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,6,E1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,6,E1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,6,E1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,E1,C2,Q2,certain,A,certain
+gpt_oss_120b,6,E1,C2,Q2,certain,B,certain
+gpt_oss_120b,6,E1,C2,Q2,certain,C,certain
+gpt_oss_120b,6,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,6,E1,C2,Q2,certain,E,certain
+gpt_oss_120b,6,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,6,C1,C1,Q1,certain,B,certain
+gpt_oss_120b,6,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,6,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,6,C1,C1,Q1,certain,E,certain
+gpt_oss_120b,6,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,6,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,6,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,6,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,6,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,6,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,6,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,6,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,6,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,6,C1,C2,Q2,certain,B,certain
+gpt_oss_120b,6,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,6,C1,C2,Q2,certain,D,certain
+gpt_oss_120b,6,C1,C2,Q2,certain,E,certain
+gpt_oss_120b,6,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,6,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,6,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,6,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,6,C3,C1,Q1,certain,E,certain
+gpt_oss_120b,6,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,6,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,6,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,6,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,6,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,6,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,6,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,6,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,6,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,6,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,6,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,6,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,6,C3,C2,Q2,certain,E,certain
+gpt_oss_120b,6,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,6,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,6,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,6,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,6,E3,C1,Q1,certain,E,certain
+gpt_oss_120b,6,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,6,E3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,6,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,6,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,E3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,6,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,6,E3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,6,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,6,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,6,E3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,6,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,6,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,6,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,6,E3,C2,Q2,certain,E,certain
+gpt_oss_120b,6,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,6,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,6,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,6,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,6,E4,C1,Q1,certain,E,certain
+gpt_oss_120b,6,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,6,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,6,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,6,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,E4,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,6,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,6,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,6,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,6,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,6,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,6,E4,C2,Q2,certain,B,certain
+gpt_oss_120b,6,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,6,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,6,E4,C2,Q2,certain,E,certain
+gpt_oss_120b,6,E5,C1,Q1,uncertain,A,certain
+gpt_oss_120b,6,E5,C1,Q1,uncertain,B,certain
+gpt_oss_120b,6,E5,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,6,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,6,E5,C1,Q1,uncertain,E,certain
+gpt_oss_120b,6,E5,C1,Q2,uncertain,A,certainly not
+gpt_oss_120b,6,E5,C1,Q2,uncertain,B,certainly not
+gpt_oss_120b,6,E5,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,6,E5,C1,Q2,uncertain,D,certainly not
+gpt_oss_120b,6,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,6,E5,C2,Q1,uncertain,A,certainly not
+gpt_oss_120b,6,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,6,E5,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,6,E5,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,6,E5,C2,Q1,uncertain,E,certainly not
+gpt_oss_120b,6,E5,C2,Q2,uncertain,A,certain
+gpt_oss_120b,6,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,6,E5,C2,Q2,uncertain,C,certain
+gpt_oss_120b,6,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,6,E5,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,6,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,6,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,6,C4,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,6,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,6,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,6,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,6,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,6,C4,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,6,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,6,C4,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,6,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,6,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,6,C4,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,6,C4,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,6,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,6,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,6,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,6,C4,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,6,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,6,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,6,C5,C1,Q1,certain,A,certain
+gpt_oss_120b,6,C5,C1,Q1,certain,B,certain
+gpt_oss_120b,6,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,6,C5,C1,Q1,certain,D,certain
+gpt_oss_120b,6,C5,C1,Q1,certain,E,certain
+gpt_oss_120b,6,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,6,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,6,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,6,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,6,C5,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,6,C5,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,6,C5,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,6,C5,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,6,C5,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,6,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,6,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,6,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,6,C5,C2,Q2,certain,E,certain
+gpt_oss_120b,6,E6,C1,Q1,certain,A,certain
+gpt_oss_120b,6,E6,C1,Q1,certain,B,certain
+gpt_oss_120b,6,E6,C1,Q1,certain,C,certain
+gpt_oss_120b,6,E6,C1,Q1,certain,D,certain
+gpt_oss_120b,6,E6,C1,Q1,certain,E,uncertain
+gpt_oss_120b,6,E6,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,6,E6,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,6,E6,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,6,E6,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,E6,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,6,E6,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,6,E6,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,6,E6,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,6,E6,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,6,E6,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,E6,C2,Q2,certain,A,certain
+gpt_oss_120b,6,E6,C2,Q2,certain,B,certain
+gpt_oss_120b,6,E6,C2,Q2,certain,C,certain
+gpt_oss_120b,6,E6,C2,Q2,certain,D,certain
+gpt_oss_120b,6,E6,C2,Q2,certain,E,uncertain
+gpt_oss_120b,6,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,6,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,6,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,6,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,6,E7,C1,Q1,certain,E,certain
+gpt_oss_120b,6,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,6,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,6,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,6,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,6,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,6,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,6,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,6,E7,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,6,E7,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,6,E7,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,6,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,6,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,6,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,6,E7,C2,Q2,certain,D,certain
+gpt_oss_120b,6,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,6,E8,C1,Q1,uncertain,A,certain
+gpt_oss_120b,6,E8,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,6,E8,C1,Q1,uncertain,C,certain
+gpt_oss_120b,6,E8,C1,Q1,uncertain,D,certain
+gpt_oss_120b,6,E8,C1,Q1,uncertain,E,certain
+gpt_oss_120b,6,E8,C1,Q2,uncertain,A,certainly not
+gpt_oss_120b,6,E8,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,6,E8,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,6,E8,C1,Q2,uncertain,D,certainly not
+gpt_oss_120b,6,E8,C1,Q2,uncertain,E,certainly not
+gpt_oss_120b,6,E8,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,6,E8,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,6,E8,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,6,E8,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,6,E8,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,6,E8,C2,Q2,uncertain,A,certain
+gpt_oss_120b,6,E8,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,6,E8,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,6,E8,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,6,E8,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,7,E2,C1,Q1,certain,A,uncertain
+gpt_oss_120b,7,E2,C1,Q1,certain,B,uncertain
+gpt_oss_120b,7,E2,C1,Q1,certain,C,certain
+gpt_oss_120b,7,E2,C1,Q1,certain,D,uncertain
+gpt_oss_120b,7,E2,C1,Q1,certain,E,certain
+gpt_oss_120b,7,E2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,E2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,7,E2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,E2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,E2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,7,E2,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,7,E2,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,7,E2,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,7,E2,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,7,E2,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,7,E2,C2,Q2,certain,A,uncertain
+gpt_oss_120b,7,E2,C2,Q2,certain,B,uncertain
+gpt_oss_120b,7,E2,C2,Q2,certain,C,uncertain
+gpt_oss_120b,7,E2,C2,Q2,certain,D,uncertain
+gpt_oss_120b,7,E2,C2,Q2,certain,E,uncertain
+gpt_oss_120b,7,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,7,C2,C1,Q1,certain,B,certain
+gpt_oss_120b,7,C2,C1,Q1,certain,C,certain
+gpt_oss_120b,7,C2,C1,Q1,certain,D,certain
+gpt_oss_120b,7,C2,C1,Q1,certain,E,certain
+gpt_oss_120b,7,C2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,C2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,7,C2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,C2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,7,C2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,7,C2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,7,C2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,7,C2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,7,C2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,7,C2,C2,Q2,certain,A,certain
+gpt_oss_120b,7,C2,C2,Q2,certain,B,certain
+gpt_oss_120b,7,C2,C2,Q2,certain,C,certain
+gpt_oss_120b,7,C2,C2,Q2,certain,D,certain
+gpt_oss_120b,7,C2,C2,Q2,certain,E,certain
+gpt_oss_120b,7,E1,C1,Q1,certain,A,certain
+gpt_oss_120b,7,E1,C1,Q1,certain,B,certain
+gpt_oss_120b,7,E1,C1,Q1,certain,C,certain
+gpt_oss_120b,7,E1,C1,Q1,certain,D,certain
+gpt_oss_120b,7,E1,C1,Q1,certain,E,certain
+gpt_oss_120b,7,E1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,E1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,7,E1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,E1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,E1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,7,E1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,7,E1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,7,E1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,7,E1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,7,E1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,7,E1,C2,Q2,certain,A,certain
+gpt_oss_120b,7,E1,C2,Q2,certain,B,certain
+gpt_oss_120b,7,E1,C2,Q2,certain,C,certain
+gpt_oss_120b,7,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,7,E1,C2,Q2,certain,E,certain
+gpt_oss_120b,7,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,7,C1,C1,Q1,certain,B,certain
+gpt_oss_120b,7,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,7,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,7,C1,C1,Q1,certain,E,certain
+gpt_oss_120b,7,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,7,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,7,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,7,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,7,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,7,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,7,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,7,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,7,C1,C2,Q2,certain,B,certain
+gpt_oss_120b,7,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,7,C1,C2,Q2,certain,D,certain
+gpt_oss_120b,7,C1,C2,Q2,certain,E,certain
+gpt_oss_120b,7,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,7,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,7,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,7,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,7,C3,C1,Q1,certain,E,certain
+gpt_oss_120b,7,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,7,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,7,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,7,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,7,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,7,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,7,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,7,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,7,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,7,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,7,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,7,C3,C2,Q2,certain,E,certain
+gpt_oss_120b,7,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,7,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,7,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,7,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,7,E3,C1,Q1,certain,E,certain
+gpt_oss_120b,7,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,E3,C1,Q2,certainly not,B,uncertain
+gpt_oss_120b,7,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,E3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,7,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,7,E3,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,7,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,7,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,7,E3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,7,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,7,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,7,E3,C2,Q2,certain,C,uncertain
+gpt_oss_120b,7,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,7,E3,C2,Q2,certain,E,certain
+gpt_oss_120b,7,E4,C1,Q1,certain,A,uncertain
+gpt_oss_120b,7,E4,C1,Q1,certain,B,uncertain
+gpt_oss_120b,7,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,7,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,7,E4,C1,Q1,certain,E,certain
+gpt_oss_120b,7,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,E4,C1,Q2,certainly not,B,uncertain
+gpt_oss_120b,7,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,E4,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,7,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,7,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,7,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,7,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,7,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,7,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,7,E4,C2,Q2,certain,B,uncertain
+gpt_oss_120b,7,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,7,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,7,E4,C2,Q2,certain,E,uncertain
+gpt_oss_120b,7,E5,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,7,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,7,E5,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,7,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,7,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,7,E5,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,7,E5,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,7,E5,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,7,E5,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,7,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,7,E5,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,7,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,7,E5,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,7,E5,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,7,E5,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,7,E5,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,7,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,7,E5,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,7,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,7,E5,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,7,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,7,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,7,C4,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,7,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,7,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,7,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,7,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,7,C4,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,7,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,7,C4,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,7,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,7,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,7,C4,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,7,C4,C2,Q1,uncertain,D,certainly not
+gpt_oss_120b,7,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,7,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,7,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,7,C4,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,7,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,7,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,7,C5,C1,Q1,certain,A,certain
+gpt_oss_120b,7,C5,C1,Q1,certain,B,certain
+gpt_oss_120b,7,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,7,C5,C1,Q1,certain,D,certain
+gpt_oss_120b,7,C5,C1,Q1,certain,E,certain
+gpt_oss_120b,7,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,7,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,7,C5,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,7,C5,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,7,C5,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,7,C5,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,7,C5,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,7,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,7,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,7,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,7,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,7,C5,C2,Q2,certain,E,certain
+gpt_oss_120b,7,E6,C1,Q1,certain,A,certain
+gpt_oss_120b,7,E6,C1,Q1,certain,B,certain
+gpt_oss_120b,7,E6,C1,Q1,certain,C,certain
+gpt_oss_120b,7,E6,C1,Q1,certain,D,certain
+gpt_oss_120b,7,E6,C1,Q1,certain,E,certain
+gpt_oss_120b,7,E6,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,E6,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,7,E6,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,E6,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,E6,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,7,E6,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,7,E6,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,7,E6,C2,Q2,certain,A,certain
+gpt_oss_120b,7,E6,C2,Q2,certain,C,uncertain
+gpt_oss_120b,7,E6,C2,Q2,certain,D,certain
+gpt_oss_120b,7,E6,C2,Q2,certain,E,certain
+gpt_oss_120b,7,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,7,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,7,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,7,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,7,E7,C1,Q1,certain,E,certain
+gpt_oss_120b,7,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,7,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,7,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,7,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,7,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,7,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,7,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,7,E7,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,7,E7,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,7,E7,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,7,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,7,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,7,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,7,E7,C2,Q2,certain,D,certain
+gpt_oss_120b,7,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,7,E8,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,7,E8,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,7,E8,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,7,E8,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,7,E8,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,7,E8,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,7,E8,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,7,E8,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,7,E8,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,7,E8,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,7,E8,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,7,E8,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,7,E8,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,7,E8,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,7,E8,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,7,E8,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,7,E8,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,7,E8,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,7,E8,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,7,E8,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,8,E2,C1,Q1,certain,A,certain
+gpt_oss_120b,8,E2,C1,Q1,certain,B,certain
+gpt_oss_120b,8,E2,C1,Q1,certain,C,certain
+gpt_oss_120b,8,E2,C1,Q1,certain,D,certain
+gpt_oss_120b,8,E2,C1,Q1,certain,E,certain
+gpt_oss_120b,8,E2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,E2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,E2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,8,E2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,E2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,8,E2,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,8,E2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,E2,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,8,E2,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,8,E2,C2,Q2,certain,A,uncertain
+gpt_oss_120b,8,E2,C2,Q2,certain,B,uncertain
+gpt_oss_120b,8,E2,C2,Q2,certain,C,certain
+gpt_oss_120b,8,E2,C2,Q2,certain,D,uncertain
+gpt_oss_120b,8,E2,C2,Q2,certain,E,uncertain
+gpt_oss_120b,8,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,8,C2,C1,Q1,certain,B,certain
+gpt_oss_120b,8,C2,C1,Q1,certain,C,certain
+gpt_oss_120b,8,C2,C1,Q1,certain,D,certain
+gpt_oss_120b,8,C2,C1,Q1,certain,E,certain
+gpt_oss_120b,8,C2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,C2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,C2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,8,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,C2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,8,C2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,8,C2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,8,C2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,C2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,8,C2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,8,C2,C2,Q2,certain,A,certain
+gpt_oss_120b,8,C2,C2,Q2,certain,B,certain
+gpt_oss_120b,8,C2,C2,Q2,certain,C,certain
+gpt_oss_120b,8,C2,C2,Q2,certain,D,certain
+gpt_oss_120b,8,C2,C2,Q2,certain,E,certain
+gpt_oss_120b,8,E1,C1,Q1,certain,A,certain
+gpt_oss_120b,8,E1,C1,Q1,certain,B,certain
+gpt_oss_120b,8,E1,C1,Q1,certain,C,certain
+gpt_oss_120b,8,E1,C1,Q1,certain,D,certain
+gpt_oss_120b,8,E1,C1,Q1,certain,E,certain
+gpt_oss_120b,8,E1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,E1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,E1,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,8,E1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,E1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,8,E1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,8,E1,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,8,E1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,E1,C2,Q1,certainly not,D,uncertain
+gpt_oss_120b,8,E1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,8,E1,C2,Q2,certain,A,uncertain
+gpt_oss_120b,8,E1,C2,Q2,certain,B,certain
+gpt_oss_120b,8,E1,C2,Q2,certain,C,certain
+gpt_oss_120b,8,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,8,E1,C2,Q2,certain,E,uncertain
+gpt_oss_120b,8,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,8,C1,C1,Q1,certain,B,certain
+gpt_oss_120b,8,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,8,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,8,C1,C1,Q1,certain,E,certain
+gpt_oss_120b,8,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,8,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,8,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,8,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,8,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,8,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,8,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,8,C1,C2,Q2,certain,B,certain
+gpt_oss_120b,8,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,8,C1,C2,Q2,certain,D,certain
+gpt_oss_120b,8,C1,C2,Q2,certain,E,certain
+gpt_oss_120b,8,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,8,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,8,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,8,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,8,C3,C1,Q1,certain,E,certain
+gpt_oss_120b,8,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,8,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,8,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,8,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,8,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,8,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,8,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,8,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,8,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,8,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,8,C3,C2,Q2,certain,E,uncertain
+gpt_oss_120b,8,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,8,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,8,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,8,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,8,E3,C1,Q1,certain,E,uncertain
+gpt_oss_120b,8,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,E3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,8,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,E3,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,8,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,8,E3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,8,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,8,E3,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,8,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,8,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,8,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,8,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,8,E3,C2,Q2,certain,E,uncertain
+gpt_oss_120b,8,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,8,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,8,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,8,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,8,E4,C1,Q1,certain,E,certain
+gpt_oss_120b,8,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,8,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,E4,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,8,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,8,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,8,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,8,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,8,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,8,E4,C2,Q2,certain,B,certain
+gpt_oss_120b,8,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,8,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,8,E4,C2,Q2,certain,E,certain
+gpt_oss_120b,8,E5,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,8,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,8,E5,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,8,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,8,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,8,E5,C1,Q2,uncertain,A,certainly not
+gpt_oss_120b,8,E5,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,8,E5,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,8,E5,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,8,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,8,E5,C2,Q1,uncertain,A,certainly not
+gpt_oss_120b,8,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,8,E5,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,8,E5,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,8,E5,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,8,E5,C2,Q2,uncertain,A,certain
+gpt_oss_120b,8,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,8,E5,C2,Q2,uncertain,C,certain
+gpt_oss_120b,8,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,8,E5,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,8,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,8,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,8,C4,C1,Q1,uncertain,C,certain
+gpt_oss_120b,8,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,8,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,8,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,8,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,8,C4,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,8,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,8,C4,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,8,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,8,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,8,C4,C2,Q1,uncertain,C,certainly not
+gpt_oss_120b,8,C4,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,8,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,8,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,8,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,8,C4,C2,Q2,uncertain,C,certain
+gpt_oss_120b,8,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,8,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,8,C5,C1,Q1,certain,A,certain
+gpt_oss_120b,8,C5,C1,Q1,certain,B,certain
+gpt_oss_120b,8,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,8,C5,C1,Q1,certain,D,certain
+gpt_oss_120b,8,C5,C1,Q1,certain,E,certain
+gpt_oss_120b,8,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,8,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,8,C5,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,8,C5,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,8,C5,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,C5,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,8,C5,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,8,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,8,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,8,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,8,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,8,C5,C2,Q2,certain,E,certain
+gpt_oss_120b,8,E6,C1,Q1,certain,A,certain
+gpt_oss_120b,8,E6,C1,Q1,certain,B,certain
+gpt_oss_120b,8,E6,C1,Q1,certain,C,certain
+gpt_oss_120b,8,E6,C1,Q1,certain,D,certain
+gpt_oss_120b,8,E6,C1,Q1,certain,E,uncertain
+gpt_oss_120b,8,E6,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,E6,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,E6,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,8,E6,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,E6,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,8,E6,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,8,E6,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,8,E6,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,E6,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,8,E6,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,8,E6,C2,Q2,certain,A,certain
+gpt_oss_120b,8,E6,C2,Q2,certain,B,certain
+gpt_oss_120b,8,E6,C2,Q2,certain,C,certain
+gpt_oss_120b,8,E6,C2,Q2,certain,D,certain
+gpt_oss_120b,8,E6,C2,Q2,certain,E,uncertain
+gpt_oss_120b,8,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,8,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,8,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,8,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,8,E7,C1,Q1,certain,E,certain
+gpt_oss_120b,8,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,8,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,8,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,8,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,8,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,8,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,8,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,8,E7,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,8,E7,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,8,E7,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,8,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,8,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,8,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,8,E7,C2,Q2,certain,D,certain
+gpt_oss_120b,8,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,8,E8,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,8,E8,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,8,E8,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,8,E8,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,8,E8,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,8,E8,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,8,E8,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,8,E8,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,8,E8,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,8,E8,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,8,E8,C2,Q1,uncertain,A,certainly not
+gpt_oss_120b,8,E8,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,8,E8,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,8,E8,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,8,E8,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,8,E8,C2,Q2,uncertain,A,certain
+gpt_oss_120b,8,E8,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,8,E8,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,8,E8,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,8,E8,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,9,E2,C1,Q1,certain,A,certain
+gpt_oss_120b,9,E2,C1,Q1,certain,B,certain
+gpt_oss_120b,9,E2,C1,Q1,certain,C,uncertain
+gpt_oss_120b,9,E2,C1,Q1,certain,D,certain
+gpt_oss_120b,9,E2,C1,Q1,certain,E,certain
+gpt_oss_120b,9,E2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,9,E2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,9,E2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,9,E2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,9,E2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,9,E2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,9,E2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,9,E2,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,9,E2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,E2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,9,E2,C2,Q2,certain,A,uncertain
+gpt_oss_120b,9,E2,C2,Q2,certain,B,certain
+gpt_oss_120b,9,E2,C2,Q2,certain,C,certain
+gpt_oss_120b,9,E2,C2,Q2,certain,D,certain
+gpt_oss_120b,9,E2,C2,Q2,certain,E,certain
+gpt_oss_120b,9,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,9,C2,C1,Q1,certain,B,certain
+gpt_oss_120b,9,C2,C1,Q1,certain,C,certain
+gpt_oss_120b,9,C2,C1,Q1,certain,D,certain
+gpt_oss_120b,9,C2,C1,Q1,certain,E,certain
+gpt_oss_120b,9,C2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,9,C2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,9,C2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,9,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,9,C2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,9,C2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,9,C2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,9,C2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,9,C2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,C2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,9,C2,C2,Q2,certain,A,certain
+gpt_oss_120b,9,C2,C2,Q2,certain,B,certain
+gpt_oss_120b,9,C2,C2,Q2,certain,C,certain
+gpt_oss_120b,9,C2,C2,Q2,certain,D,certain
+gpt_oss_120b,9,C2,C2,Q2,certain,E,certain
+gpt_oss_120b,9,E1,C1,Q1,certain,A,uncertain
+gpt_oss_120b,9,E1,C1,Q1,certain,B,certain
+gpt_oss_120b,9,E1,C1,Q1,certain,C,uncertain
+gpt_oss_120b,9,E1,C1,Q1,certain,D,certain
+gpt_oss_120b,9,E1,C1,Q1,certain,E,uncertain
+gpt_oss_120b,9,E1,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,9,E1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,9,E1,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,9,E1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,9,E1,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,9,E1,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,9,E1,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,9,E1,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,9,E1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,E1,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,9,E1,C2,Q2,certain,A,certain
+gpt_oss_120b,9,E1,C2,Q2,certain,B,certain
+gpt_oss_120b,9,E1,C2,Q2,certain,C,uncertain
+gpt_oss_120b,9,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,9,E1,C2,Q2,certain,E,uncertain
+gpt_oss_120b,9,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,9,C1,C1,Q1,certain,B,certain
+gpt_oss_120b,9,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,9,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,9,C1,C1,Q1,certain,E,certain
+gpt_oss_120b,9,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,9,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,9,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,9,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,9,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,9,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,9,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,9,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,9,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,9,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,9,C1,C2,Q2,certain,B,certain
+gpt_oss_120b,9,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,9,C1,C2,Q2,certain,D,certain
+gpt_oss_120b,9,C1,C2,Q2,certain,E,certain
+gpt_oss_120b,9,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,9,C3,C1,Q1,certain,B,uncertain
+gpt_oss_120b,9,C3,C1,Q1,certain,C,uncertain
+gpt_oss_120b,9,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,9,C3,C1,Q1,certain,E,uncertain
+gpt_oss_120b,9,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,9,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,9,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,9,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,9,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,9,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,9,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,9,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,9,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,9,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,9,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,9,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,9,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,9,C3,C2,Q2,certain,E,uncertain
+gpt_oss_120b,9,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,9,E3,C1,Q1,certain,B,certainly not
+gpt_oss_120b,9,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,9,E3,C1,Q1,certain,D,uncertain
+gpt_oss_120b,9,E3,C1,Q1,certain,E,uncertain
+gpt_oss_120b,9,E3,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,9,E3,C1,Q2,certainly not,B,uncertain
+gpt_oss_120b,9,E3,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,9,E3,C1,Q2,certainly not,D,uncertain
+gpt_oss_120b,9,E3,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,9,E3,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,9,E3,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,9,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,9,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,E3,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,9,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,9,E3,C2,Q2,certain,B,uncertain
+gpt_oss_120b,9,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,9,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,9,E3,C2,Q2,certain,E,uncertain
+gpt_oss_120b,9,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,9,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,9,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,9,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,9,E4,C1,Q1,certain,E,certain
+gpt_oss_120b,9,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,9,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,9,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,9,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,9,E4,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,9,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,9,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,9,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,9,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,9,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,9,E4,C2,Q2,certain,B,certain
+gpt_oss_120b,9,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,9,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,9,E4,C2,Q2,certain,E,certain
+gpt_oss_120b,9,E5,C1,Q1,uncertain,A,certain
+gpt_oss_120b,9,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,9,E5,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,9,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,9,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,9,E5,C1,Q2,uncertain,A,certainly not
+gpt_oss_120b,9,E5,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,9,E5,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,9,E5,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,9,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,9,E5,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,9,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,9,E5,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,9,E5,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,9,E5,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,9,E5,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,9,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,9,E5,C2,Q2,uncertain,C,certain
+gpt_oss_120b,9,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,9,E5,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,9,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,9,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,9,C4,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,9,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,9,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,9,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,9,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,9,C4,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,9,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,9,C4,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,9,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,9,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,9,C4,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,9,C4,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,9,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,9,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,9,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,9,C4,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,9,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,9,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,9,C5,C1,Q1,certain,A,certain
+gpt_oss_120b,9,C5,C1,Q1,certain,B,certain
+gpt_oss_120b,9,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,9,C5,C1,Q1,certain,D,certain
+gpt_oss_120b,9,C5,C1,Q1,certain,E,certain
+gpt_oss_120b,9,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,9,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,9,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,9,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,9,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,9,C5,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,9,C5,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,9,C5,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,9,C5,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,C5,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,9,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,9,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,9,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,9,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,9,C5,C2,Q2,certain,E,certain
+gpt_oss_120b,9,E6,C1,Q1,certain,A,uncertain
+gpt_oss_120b,9,E6,C1,Q1,certain,B,uncertain
+gpt_oss_120b,9,E6,C1,Q1,certain,C,uncertain
+gpt_oss_120b,9,E6,C1,Q1,certain,D,uncertain
+gpt_oss_120b,9,E6,C1,Q1,certain,E,uncertain
+gpt_oss_120b,9,E6,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,9,E6,C1,Q2,certainly not,B,uncertain
+gpt_oss_120b,9,E6,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,9,E6,C1,Q2,certainly not,D,uncertain
+gpt_oss_120b,9,E6,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,9,E6,C2,Q1,certainly not,A,uncertain
+gpt_oss_120b,9,E6,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,9,E6,C2,Q1,certainly not,C,uncertain
+gpt_oss_120b,9,E6,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,E6,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,9,E6,C2,Q2,certain,A,certain
+gpt_oss_120b,9,E6,C2,Q2,certain,B,certain
+gpt_oss_120b,9,E6,C2,Q2,certain,C,certain
+gpt_oss_120b,9,E6,C2,Q2,certain,D,uncertain
+gpt_oss_120b,9,E6,C2,Q2,certain,E,uncertain
+gpt_oss_120b,9,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,9,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,9,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,9,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,9,E7,C1,Q1,certain,E,certain
+gpt_oss_120b,9,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,9,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,9,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,9,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,9,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,9,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,9,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,9,E7,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,9,E7,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,9,E7,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,9,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,9,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,9,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,9,E7,C2,Q2,certain,D,certain
+gpt_oss_120b,9,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,9,E8,C1,Q1,uncertain,A,certain
+gpt_oss_120b,9,E8,C1,Q1,uncertain,B,certain
+gpt_oss_120b,9,E8,C1,Q1,uncertain,C,certain
+gpt_oss_120b,9,E8,C1,Q1,uncertain,D,certain
+gpt_oss_120b,9,E8,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,9,E8,C1,Q2,uncertain,A,certainly not
+gpt_oss_120b,9,E8,C1,Q2,uncertain,B,certainly not
+gpt_oss_120b,9,E8,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,9,E8,C1,Q2,uncertain,D,certainly not
+gpt_oss_120b,9,E8,C1,Q2,uncertain,E,certainly not
+gpt_oss_120b,9,E8,C2,Q1,uncertain,A,certainly not
+gpt_oss_120b,9,E8,C2,Q1,uncertain,B,certainly not
+gpt_oss_120b,9,E8,C2,Q1,uncertain,C,certainly not
+gpt_oss_120b,9,E8,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,9,E8,C2,Q1,uncertain,E,certainly not
+gpt_oss_120b,9,E8,C2,Q2,uncertain,A,certain
+gpt_oss_120b,9,E8,C2,Q2,uncertain,B,certain
+gpt_oss_120b,9,E8,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,9,E8,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,9,E8,C2,Q2,uncertain,E,certain
+gpt_oss_120b,10,E2,C1,Q1,certain,A,certain
+gpt_oss_120b,10,E2,C1,Q1,certain,B,certain
+gpt_oss_120b,10,E2,C1,Q1,certain,C,certain
+gpt_oss_120b,10,E2,C1,Q1,certain,D,certain
+gpt_oss_120b,10,E2,C1,Q1,certain,E,certain
+gpt_oss_120b,10,E2,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,10,E2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,E2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,10,E2,C1,Q2,certainly not,D,uncertain
+gpt_oss_120b,10,E2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,10,E2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,E2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,E2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,E2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,E2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,10,E2,C2,Q2,certain,A,certain
+gpt_oss_120b,10,E2,C2,Q2,certain,B,certain
+gpt_oss_120b,10,E2,C2,Q2,certain,C,certain
+gpt_oss_120b,10,E2,C2,Q2,certain,D,certain
+gpt_oss_120b,10,E2,C2,Q2,certain,E,certain
+gpt_oss_120b,10,C2,C1,Q1,certain,A,certain
+gpt_oss_120b,10,C2,C1,Q1,certain,B,certain
+gpt_oss_120b,10,C2,C1,Q1,certain,C,certain
+gpt_oss_120b,10,C2,C1,Q1,certain,D,certain
+gpt_oss_120b,10,C2,C1,Q1,certain,E,certain
+gpt_oss_120b,10,C2,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,10,C2,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,C2,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,10,C2,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,10,C2,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,10,C2,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,C2,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,C2,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,C2,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,C2,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,10,C2,C2,Q2,certain,A,certain
+gpt_oss_120b,10,C2,C2,Q2,certain,B,certain
+gpt_oss_120b,10,C2,C2,Q2,certain,C,certain
+gpt_oss_120b,10,C2,C2,Q2,certain,D,certain
+gpt_oss_120b,10,C2,C2,Q2,certain,E,certain
+gpt_oss_120b,10,E1,C1,Q1,certain,A,uncertain
+gpt_oss_120b,10,E1,C1,Q1,certain,B,certain
+gpt_oss_120b,10,E1,C1,Q1,certain,C,certain
+gpt_oss_120b,10,E1,C1,Q1,certain,D,uncertain
+gpt_oss_120b,10,E1,C1,Q1,certain,E,uncertain
+gpt_oss_120b,10,E1,C1,Q2,certainly not,A,uncertain
+gpt_oss_120b,10,E1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,E1,C1,Q2,certainly not,C,uncertain
+gpt_oss_120b,10,E1,C1,Q2,certainly not,D,uncertain
+gpt_oss_120b,10,E1,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,10,E1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,E1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,E1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,E1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,E1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,10,E1,C2,Q2,certain,A,certain
+gpt_oss_120b,10,E1,C2,Q2,certain,B,certain
+gpt_oss_120b,10,E1,C2,Q2,certain,C,certain
+gpt_oss_120b,10,E1,C2,Q2,certain,D,certain
+gpt_oss_120b,10,E1,C2,Q2,certain,E,certain
+gpt_oss_120b,10,C1,C1,Q1,certain,A,certain
+gpt_oss_120b,10,C1,C1,Q1,certain,B,certain
+gpt_oss_120b,10,C1,C1,Q1,certain,C,certain
+gpt_oss_120b,10,C1,C1,Q1,certain,D,certain
+gpt_oss_120b,10,C1,C1,Q1,certain,E,certain
+gpt_oss_120b,10,C1,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,10,C1,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,C1,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,10,C1,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,10,C1,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,10,C1,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,C1,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,C1,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,C1,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,C1,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,10,C1,C2,Q2,certain,A,certain
+gpt_oss_120b,10,C1,C2,Q2,certain,B,certain
+gpt_oss_120b,10,C1,C2,Q2,certain,C,certain
+gpt_oss_120b,10,C1,C2,Q2,certain,D,certain
+gpt_oss_120b,10,C1,C2,Q2,certain,E,certain
+gpt_oss_120b,10,C3,C1,Q1,certain,A,certain
+gpt_oss_120b,10,C3,C1,Q1,certain,B,certain
+gpt_oss_120b,10,C3,C1,Q1,certain,C,certain
+gpt_oss_120b,10,C3,C1,Q1,certain,D,certain
+gpt_oss_120b,10,C3,C1,Q1,certain,E,certain
+gpt_oss_120b,10,C3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,10,C3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,C3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,10,C3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,10,C3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,10,C3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,C3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,C3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,C3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,C3,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,10,C3,C2,Q2,certain,A,certain
+gpt_oss_120b,10,C3,C2,Q2,certain,B,certain
+gpt_oss_120b,7,E6,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,7,E6,C2,Q1,certainly not,B,certain
+gpt_oss_120b,7,E6,C2,Q1,certainly not,E,certain
+gpt_oss_120b,7,E6,C2,Q2,certain,B,uncertain
+gpt_oss_120b,8,E2,C2,Q1,certainly not,B,uncertain
+gpt_oss_120b,10,C3,C2,Q2,certain,C,certain
+gpt_oss_120b,10,C3,C2,Q2,certain,D,certain
+gpt_oss_120b,10,C3,C2,Q2,certain,E,certain
+gpt_oss_120b,10,E3,C1,Q1,certain,A,certain
+gpt_oss_120b,10,E3,C1,Q1,certain,B,certain
+gpt_oss_120b,10,E3,C1,Q1,certain,C,certain
+gpt_oss_120b,10,E3,C1,Q1,certain,D,certain
+gpt_oss_120b,10,E3,C1,Q1,certain,E,certain
+gpt_oss_120b,10,E3,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,10,E3,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,E3,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,10,E3,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,10,E3,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,10,E3,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,E3,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,E3,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,E3,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,E3,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,10,E3,C2,Q2,certain,A,certain
+gpt_oss_120b,10,E3,C2,Q2,certain,B,certain
+gpt_oss_120b,10,E3,C2,Q2,certain,C,certain
+gpt_oss_120b,10,E3,C2,Q2,certain,D,certain
+gpt_oss_120b,10,E3,C2,Q2,certain,E,certain
+gpt_oss_120b,10,E4,C1,Q1,certain,A,certain
+gpt_oss_120b,10,E4,C1,Q1,certain,B,certain
+gpt_oss_120b,10,E4,C1,Q1,certain,C,certain
+gpt_oss_120b,10,E4,C1,Q1,certain,D,certain
+gpt_oss_120b,10,E4,C1,Q1,certain,E,certain
+gpt_oss_120b,10,E4,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,10,E4,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,E4,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,10,E4,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,10,E4,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,10,E4,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,E4,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,E4,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,E4,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,E4,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,10,E4,C2,Q2,certain,A,certain
+gpt_oss_120b,10,E4,C2,Q2,certain,B,certain
+gpt_oss_120b,10,E4,C2,Q2,certain,C,certain
+gpt_oss_120b,10,E4,C2,Q2,certain,D,certain
+gpt_oss_120b,10,E4,C2,Q2,certain,E,certain
+gpt_oss_120b,10,E5,C1,Q1,uncertain,A,certain
+gpt_oss_120b,10,E5,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,10,E5,C1,Q1,uncertain,C,certain
+gpt_oss_120b,10,E5,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,10,E5,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,10,E5,C1,Q2,uncertain,A,certainly not
+gpt_oss_120b,10,E5,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,10,E5,C1,Q2,uncertain,C,certainly not
+gpt_oss_120b,10,E5,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,10,E5,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,10,E5,C2,Q1,uncertain,A,certainly not
+gpt_oss_120b,10,E5,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,10,E5,C2,Q1,uncertain,C,certainly not
+gpt_oss_120b,10,E5,C2,Q1,uncertain,D,certainly not
+gpt_oss_120b,10,E5,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,10,E5,C2,Q2,uncertain,A,certain
+gpt_oss_120b,10,E5,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,10,E5,C2,Q2,uncertain,C,certain
+gpt_oss_120b,10,E5,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,10,E5,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,10,C4,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,10,C4,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,10,C4,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,10,C4,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,10,C4,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,10,C4,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,10,C4,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,10,C4,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,10,C4,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,10,C4,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,10,C4,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,10,C4,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,10,C4,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,10,C4,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,10,C4,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,10,C4,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,10,C4,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,10,C4,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,10,C4,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,10,C4,C2,Q2,uncertain,E,uncertain
+gpt_oss_120b,10,C5,C1,Q1,certain,A,certain
+gpt_oss_120b,10,C5,C1,Q1,certain,B,certain
+gpt_oss_120b,10,C5,C1,Q1,certain,C,certain
+gpt_oss_120b,10,C5,C1,Q1,certain,D,certain
+gpt_oss_120b,10,C5,C1,Q1,certain,E,certain
+gpt_oss_120b,10,C5,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,10,C5,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,C5,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,10,C5,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,10,C5,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,10,C5,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,C5,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,C5,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,C5,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,C5,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,10,C5,C2,Q2,certain,A,certain
+gpt_oss_120b,10,C5,C2,Q2,certain,B,certain
+gpt_oss_120b,10,C5,C2,Q2,certain,C,certain
+gpt_oss_120b,10,C5,C2,Q2,certain,D,certain
+gpt_oss_120b,10,C5,C2,Q2,certain,E,certain
+gpt_oss_120b,10,E6,C1,Q1,certain,A,certain
+gpt_oss_120b,10,E6,C1,Q1,certain,B,certain
+gpt_oss_120b,10,E6,C1,Q1,certain,C,certain
+gpt_oss_120b,10,E6,C1,Q1,certain,D,certain
+gpt_oss_120b,10,E6,C1,Q1,certain,E,certain
+gpt_oss_120b,10,E6,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,10,E6,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,E6,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,10,E6,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,10,E6,C1,Q2,certainly not,E,uncertain
+gpt_oss_120b,10,E6,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,E6,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,E6,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,E6,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,E6,C2,Q1,certainly not,E,uncertain
+gpt_oss_120b,10,E6,C2,Q2,certain,A,certain
+gpt_oss_120b,10,E6,C2,Q2,certain,B,certain
+gpt_oss_120b,10,E6,C2,Q2,certain,C,certain
+gpt_oss_120b,10,E6,C2,Q2,certain,D,certain
+gpt_oss_120b,10,E6,C2,Q2,certain,E,certain
+gpt_oss_120b,10,E7,C1,Q1,certain,A,certain
+gpt_oss_120b,10,E7,C1,Q1,certain,B,certain
+gpt_oss_120b,10,E7,C1,Q1,certain,C,certain
+gpt_oss_120b,10,E7,C1,Q1,certain,D,certain
+gpt_oss_120b,10,E7,C1,Q1,certain,E,certain
+gpt_oss_120b,10,E7,C1,Q2,certainly not,A,certainly not
+gpt_oss_120b,10,E7,C1,Q2,certainly not,B,certainly not
+gpt_oss_120b,10,E7,C1,Q2,certainly not,C,certainly not
+gpt_oss_120b,10,E7,C1,Q2,certainly not,D,certainly not
+gpt_oss_120b,10,E7,C1,Q2,certainly not,E,certainly not
+gpt_oss_120b,10,E7,C2,Q1,certainly not,A,certainly not
+gpt_oss_120b,10,E7,C2,Q1,certainly not,B,certainly not
+gpt_oss_120b,10,E7,C2,Q1,certainly not,C,certainly not
+gpt_oss_120b,10,E7,C2,Q1,certainly not,D,certainly not
+gpt_oss_120b,10,E7,C2,Q1,certainly not,E,certainly not
+gpt_oss_120b,10,E7,C2,Q2,certain,A,certain
+gpt_oss_120b,10,E7,C2,Q2,certain,B,certain
+gpt_oss_120b,10,E7,C2,Q2,certain,C,certain
+gpt_oss_120b,10,E7,C2,Q2,certain,D,certain
+gpt_oss_120b,10,E7,C2,Q2,certain,E,certain
+gpt_oss_120b,10,E8,C1,Q1,uncertain,A,uncertain
+gpt_oss_120b,10,E8,C1,Q1,uncertain,B,uncertain
+gpt_oss_120b,10,E8,C1,Q1,uncertain,C,uncertain
+gpt_oss_120b,10,E8,C1,Q1,uncertain,D,uncertain
+gpt_oss_120b,10,E8,C1,Q1,uncertain,E,uncertain
+gpt_oss_120b,10,E8,C1,Q2,uncertain,A,uncertain
+gpt_oss_120b,10,E8,C1,Q2,uncertain,B,uncertain
+gpt_oss_120b,10,E8,C1,Q2,uncertain,C,uncertain
+gpt_oss_120b,10,E8,C1,Q2,uncertain,D,uncertain
+gpt_oss_120b,10,E8,C1,Q2,uncertain,E,uncertain
+gpt_oss_120b,10,E8,C2,Q1,uncertain,A,uncertain
+gpt_oss_120b,10,E8,C2,Q1,uncertain,B,uncertain
+gpt_oss_120b,10,E8,C2,Q1,uncertain,C,uncertain
+gpt_oss_120b,10,E8,C2,Q1,uncertain,D,uncertain
+gpt_oss_120b,10,E8,C2,Q1,uncertain,E,uncertain
+gpt_oss_120b,10,E8,C2,Q2,uncertain,A,uncertain
+gpt_oss_120b,10,E8,C2,Q2,uncertain,B,uncertain
+gpt_oss_120b,10,E8,C2,Q2,uncertain,C,uncertain
+gpt_oss_120b,10,E8,C2,Q2,uncertain,D,uncertain
+gpt_oss_120b,10,E8,C2,Q2,uncertain,E,uncertain
